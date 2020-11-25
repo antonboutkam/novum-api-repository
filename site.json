@@ -1,0 +1,19 @@
+{
+  "config_dir": "novum.repository",
+  "namespace": "ApiNovumRepository",
+  "site": {
+    "dev": {
+      "protocol": "http",
+      "domain": "api.repository.innovatieapp.nl"
+    },
+    "test": {
+      "protocol": "https",
+      "domain": "api.repository.test.demo.novum.nu"
+    },
+    "prod": {
+      "protocol": "https",
+      "domain": "api.repository.demo.novum.nu"
+    }
+  },
+  "server_admin": "anton@novum.nu"
+}
