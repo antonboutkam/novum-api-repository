@@ -4,7 +4,7 @@
     "type": "novum-api",
     "require": {
         "novum/innovation-app-core": "*",
-        "novum/domain-repository": "dev-master",
+        "novum/domain-repository": "*",
         "hurah/hurah-installer": "*",
         "PHP": ">=7.4"
     },
