@@ -1,10 +1,10 @@
 {
     "name": "novum/api-repository",
-    "description": "sadffdsaas",
+    "description": "Repository API, contains a collection of installable packages for the Novum Innovation App.",
     "type": "novum-api",
     "require": {
         "novum/innovation-app-core": "*",
-        "novum/api-repository": "dev-master",
+        "novum/api-domain": "dev-master",
         "hurah/hurah-installer": "*",
         "PHP": ">=7.4"
     },
